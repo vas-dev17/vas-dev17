@@ -8,11 +8,11 @@ Après 18 ans en informatique industrielle, automatisme et électronique dans l'
 
 ## Management technique / encadrement d’équipe
 
-    * Encadrement technique de développeurs
-    * Répartition des sujets techniques et accompagnement de l’équipe
-    * Appui à la montée en compétence
-    * Relecture / exigence de qualité / bonnes pratiques
-    * Leadership technique sur les choix d’architecture et d’outillage
+* Encadrement technique de développeurs
+* Répartition des sujets techniques et accompagnement de l’équipe
+* Appui à la montée en compétence
+* Relecture / exigence de qualité / bonnes pratiques
+* Leadership technique sur les choix d’architecture et d’outillage
 
 ## Pilotage de projet
 
